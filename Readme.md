@@ -21,10 +21,14 @@ For people developing clients and services , this is a core services that lets t
 
 ## How to use ?
 
+- Add the SDK in your project 
+
 1. `import {Application}  from '2nd.SDK'`
 2. `const init = new Application()`
 
-The above will produce a new Application class that can be accessed and methods exposed directly for use such as `init.keys()` or `init.relayPool()` and so on. 
+The above will initialize a new Application class that can be accessed and methods exposed directly for use such as `init.keys()` or `init.relayPool()` and so on. 
+
+- Make sure that you init the above class , and then you can explore other classes based on your need, like `Keys`,  though most of the basic instances are available with new classes that you instantite in your project and lets you do most of the methods exposed as per needs.
 
 ## Using UI Service 
 
