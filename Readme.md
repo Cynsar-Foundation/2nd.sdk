@@ -17,6 +17,7 @@ For people developing clients and services , this is a core services that lets t
 4. Fetch Events for the required fields 
 5. Low on dependency and has tested features and tests 
 6. Typescript Enabled
+7. Query events like `Get this from this Relay`
 
 
 ## How to use ?
