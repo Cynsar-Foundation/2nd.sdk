@@ -15,4 +15,20 @@ For people developing clients and services , this is a core services that lets t
 3. Build schema like events and relay them.
 3. Store files over hypercore and relay them.
 4. Fetch Events for the required fields 
-5. 
+5. Low on dependency and has tested features and tests 
+6. Typescript Enabled
+
+
+## How to use ?
+
+1. `import {Application}  from '2nd.SDK'`
+2. `const init = new Application()`
+
+The above will produce a new Application class that can be accessed and methods exposed directly for use such as `init.keys()` or `init.relayPool()` and so on. 
+
+## Using UI Service 
+
+1. Packaging the React UI services that can be used as context 
+
+## Ship Faster Services and Products
+
