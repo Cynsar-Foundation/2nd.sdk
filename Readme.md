@@ -1,6 +1,8 @@
 
 ## Second Exchange SDK 
 
+- Note : This lib is not usable for now, but soon it will expected release date from now , is around + 1 month , alpha release soon :)
+
 For people developing clients and services , this is a core services that lets them develop usefull applications like Front End for tech stack as below.
 
 1. If you are intending to build something simple , that uses nostr 
