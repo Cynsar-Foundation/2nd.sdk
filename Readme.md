@@ -32,3 +32,12 @@ The above will produce a new Application class that can be accessed and methods 
 
 ## Ship Faster Services and Products
 
+## API 
+
+- `Application`
+- `Application.Relay`
+- `Application.Logger`
+- `Events.publish`
+- `Pools.api`
+- `Keys.api`
+
